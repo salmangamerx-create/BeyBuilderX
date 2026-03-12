@@ -273,4 +273,5 @@ var bits = [
     {"name":"Yielding",     "weight":0.43,  "height":0,   "abbv":"Y",  "type":"bit",        "wins":0, "losses":0, "draws":0, "id":47},
     {"name":"Free Flat",    "weight":0.43,  "height":0,   "abbv":"FF", "type":"bit",        "wins":0, "losses":0, "draws":0, "id":48},
 
+
 ];
